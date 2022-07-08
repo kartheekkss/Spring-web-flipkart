@@ -1,0 +1,8 @@
+public class student{
+
+public static void string[]args{
+
+int a= 20;
+string s=kartheek;
+}
+}
